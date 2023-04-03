@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Java**
 
-- 👯 I’m looking to collaborate on [Solution_Challange](https://github.com/vipul-bhatia/solution_challange/settings)
+- 👯 I’m looking to collaborate on [Solution_Challange](https://github.com/vipul-bhatia/Solution_Challange-AgroConnect-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vipul-bhatia?tab=repositories](https://github.com/vipul-bhatia?tab=repositories)
 
@@ -30,5 +30,3 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-bhatia&show_icons=true&locale=en&layout=compact" alt="vipul-bhatia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul-bhatia&show_icons=true&locale=en" alt="vipul-bhatia" /></p>
