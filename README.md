@@ -10,23 +10,25 @@
 
 
 <h1 align="center">Hi 👋, I'm Vipul Bhatia</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer & entrepreneur from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
-- 🔭 I’m currently working on [Project_Managment_Website](https://github.com/vipul-bhatia/Project_Managment_Website)
+- 🔭 I’m currently working on [RAG Projects](https://github.com/vipul-bhatia/LangChain-Projects/tree/main/RAG_ConversationWithDatabase)
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **AWS, Generative AI**
 
-- 👯 I’m looking to collaborate on [Solution_Challange](https://github.com/vipul-bhatia/Solution_Challange-AgroConnect-)
+- 👯 I’m looking to collaborate on [ResQNotify](https://github.com/vipul-bhatia/collision_detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vipul-bhatia?tab=repositories](https://github.com/vipul-bhatia?tab=repositories)
+  
+- 🕸️ Visit my portfolio website for more imformation about my pojects [Portfolio Webiste](https://vipul-latu.onrender.com)
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Flutter, React, Blockchain, AI/ML, IoT, Cloud**
 
 - 📫 How to reach me **vipul0592bhatia@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/vipul-bhatia/vipul-bhatia/blob/main/Vipul_Bhatia_Resume.pdf](https://github.com/vipul-bhatia/vipul-bhatia/blob/main/Vipul_Bhatia_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/vipul-bhatia/vipul-bhatia/blob/main/Vipul_BhatiaCV.pdf](https://github.com/vipul-bhatia/vipul-bhatia/blob/main/Vipul_BhatiaCV.pdf)
 
 - ⚡ Fun fact **How many programmers does it take to change a light bulb? None, that’s a hardware problem.**
 
