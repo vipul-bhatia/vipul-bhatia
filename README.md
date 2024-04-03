@@ -8,8 +8,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+
 <h1 align="center">Hi 👋, I'm Vipul Bhatia</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
